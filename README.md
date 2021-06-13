@@ -1,6 +1,5 @@
 <!--
 **Roboticsdreams/Roboticsdreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/11741187?s=400&v=4" width="320" height="320"  /> </p>
 <h1 align="center">Hi there 👋, I'm Rathinavel</h1>
 
+![Visitor Count](https://profile-counter.glitch.me/{Roboticsdreams}/count.svg)
 ## About me
 I am currently working as a senior member of techincal staff in AthenaHealth, Chennai after completing my master degree in computer application. I love do coding and debugging. I love learning new technologies and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects. I always want to be perfect in whatever work I do and this makes me successfull and punctual. I am always looking for an opportunity to do better and achieve greatness.
 
