@@ -21,7 +21,7 @@ I am currently working as a senior member of techincal staff in AthenaHealth, Ch
 - 📫 How to reach me: p.rathinavel@gmail.com 📩
 - 🌱 I’m currently learning new tech stack in development.
 - 👯 I’m looking to opportunites to work on big problems where i can contribute more and learn more.
-- 🥅 Goals: Contribute more projects in 2021, Learn DSA and competitive programming 
+- 🥅 Goals: Contribute more projects, Learn DSA and competitive programming 
 - ⚡ Fun fact: I love watching scifi and space related movies.
 - 😄 Pronouns: he\his
 
