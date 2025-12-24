@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there 👋, I'm Rathinavel
 
 ![Profile Image](https://avatars.githubusercontent.com/u/11741187?s=400&v=4)
@@ -7,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Roboticsdreams)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Roboticsdreams&style=flat-square&color=blue)
+
+</div>
 
 ## 🚀 About Me
 
