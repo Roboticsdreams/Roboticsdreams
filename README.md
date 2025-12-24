@@ -105,22 +105,11 @@ me = Rathinavel()
 - Performance Optimization
 
 ### Future Interests
-- Quantum Computing
-- Blockchain Development
 - AI Ethics
 - Edge Computing
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roboticsdreams&theme=radical" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Roboticsdreams&theme=react-dark" alt="Contribution Graph" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Roboticsdreams&theme=radical&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ## 📫 Let's Connect
 
